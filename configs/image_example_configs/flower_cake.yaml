@@ -1,0 +1,5 @@
+image_path: "./data/images/cake.jpg"
+
+screen_text: "flowers" # texts, describing the edit layer
+comp_text: "flowers" # texts, describing the full edited image
+src_text: "cake" # texts, describing the input image
